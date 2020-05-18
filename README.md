@@ -1,2 +1,2 @@
-# Diagnosing breast cancer with the k-NN algorithm
+# Diagnosing breast cancer with the KNN algorithm
  
